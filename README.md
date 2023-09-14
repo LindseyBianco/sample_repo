@@ -7,4 +7,10 @@ Calc is an interactive calculator which provides for easy large numeric calculat
 7 + 4 * 1
 and the calculator will print:
 
+main
+7
+
+I have been here
+=======
 11
+main
