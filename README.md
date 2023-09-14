@@ -8,3 +8,5 @@ Calc is an interactive calculator which provides for easy large numeric calculat
 and the calculator will print:
 
 7
+
+I have been here
